@@ -1,4 +1,4 @@
-# ozyMart RFM Analysis
+# RFM Analysis
 
 **RFM Analysis** adalah proyek analisis perilaku pelanggan menggunakan metode **RFM** (Recency, Frequency, Monetary) untuk memahami segmentasi pelanggan dan memberikan wawasan yang relevan dalam meningkatkan loyalitas serta retensi pelanggan.
 
